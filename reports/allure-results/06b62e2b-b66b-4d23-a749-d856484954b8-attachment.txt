@@ -1,0 +1,10 @@
+🎯 Starting browser: chromium
+🎯 Headless mode: False (headed=True)
+🌐 Navigating to: https://tutorialsninja.com/demo/
+📹 Tracing enabled - capturing screenshots and actions
+📊 Test 'test_end_to_end' result: ❌ FAILED
+💾 Trace saved: reports/traces/test_end_to_end_trace.zip
+📸 Screenshot saved: reports/screenshots/test_end_to_end.png
+📎 Screenshot attached to Allure report
+🎥 Video attached to Allure report
+🧹 Closing browser context and stopping Playwright...

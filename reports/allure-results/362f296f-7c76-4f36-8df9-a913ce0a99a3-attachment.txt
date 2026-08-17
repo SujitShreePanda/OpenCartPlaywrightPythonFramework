@@ -1,0 +1,5 @@
+🎯 Starting browser: chromium
+🎯 Headless mode: False (headed=True)
+🌐 Navigating to: https://tutorialsninja.com/demo/
+📹 Tracing enabled - capturing screenshots and actions
+🧹 Closing browser context and stopping Playwright...

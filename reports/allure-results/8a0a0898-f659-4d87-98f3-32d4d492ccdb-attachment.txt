@@ -1,0 +1,10 @@
+🎯 Starting browser: chromium
+🎯 Headless mode: False (headed=True)
+🌐 Navigating to: https://tutorialsninja.com/demo/
+📹 Tracing enabled - capturing screenshots and actions
+📊 Test 'test_login_data_driven[Valid login-pavanol@abc.com-test@123-success]' result: ❌ FAILED
+💾 Trace saved: reports/traces/test_login_data_driven[Valid login-pavanol@abc.com-test@123-success]_trace.zip
+📸 Screenshot saved: reports/screenshots/test_login_data_driven[Valid login-pavanol@abc.com-test@123-success].png
+📎 Screenshot attached to Allure report
+🎥 Video attached to Allure report
+🧹 Closing browser context and stopping Playwright...

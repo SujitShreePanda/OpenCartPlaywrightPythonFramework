@@ -1,0 +1,14 @@
+🎯 Starting browser: chromium
+🎯 Headless mode: False (headed=True)
+🌐 Navigating to: https://tutorialsninja.com/demo/
+📹 Tracing enabled - capturing screenshots and actions
+Error while clicking 'Add to Cart': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#button-cart")
+
+📊 Test 'test_add_product_to_cart' result: ❌ FAILED
+💾 Trace saved: reports/traces/test_add_product_to_cart_trace.zip
+📸 Screenshot saved: reports/screenshots/test_add_product_to_cart.png
+📎 Screenshot attached to Allure report
+🎥 Video attached to Allure report
+🧹 Closing browser context and stopping Playwright...
